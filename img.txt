@@ -1,0 +1,1 @@
+<a href="https://forge2.altiusinstitute.org/files/forgedb.html" target="_self"><img src="/src/html/img/forgedb.logo.svg" style="border:none;outline: none;" /></a>
