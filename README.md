@@ -1,7 +1,7 @@
 # FORGEdb
 Tutorial: generating 37M FORGEdb pages 
 
-This tutorial lists the different steps to generate 37 million webpages using FORGEdb standalone. The code presented here is optimised for the NIH Biowulf cluster, but can be amended to work on other large compute clusters. Note that different required FORGEdb databases can be downloaded from https://forgedb.altiusinstitute.org/?download. 
+This tutorial lists the different steps to generate 37 million webpages using FORGEdb standalone. The code presented here is optimised for the NIH Biowulf cluster, but can be amended to work on other large compute clusters. Note that different required FORGEdb databases can be downloaded from https://forge2.altiusinstitute.org/?download. 
 
 PREPARATORY STEPS:
 
