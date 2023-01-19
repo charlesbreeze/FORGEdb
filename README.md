@@ -46,7 +46,7 @@ RUN with (from directory /data/breezece/test.localmem2):
 	
 	[test.localmem2]$ nohup bash submits.jobs.sbatch.sh & 
 
-this runs:
+this runs (note that get.table.snp.forge2.2.sh includes command-line FORGE2 as a dependency via script eforge.safe_copy_nonthreaded.table.only.version2.pl, for more information see https://github.com/charlesbreeze/FORGE2):
 
 	
 	[breezece@biowulf breezece]$ cat test.localmem7/myjobscript.for.jobaa
